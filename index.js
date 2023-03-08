@@ -59,53 +59,7 @@ const questions = [
         name: 'linkedin',
         message: 'Enter your linkedin username:'
     },
-{
-        type: 'input',
-        name: 'questions',
-        message: 'What were the challenges you faced while building the project and how did you overcome them?'
-},
 
-{
-    type: 'input',
-    name: 'questions1',
-    message: 'Are there any real-world applications or use cases for your project?'
-    
-},
-{
-    type: 'input',
-    name: 'questions2',
-    message: 'How did you approach testing and quality assurance for the project?'
-},
-{
-    type: 'input',
-    name: 'questions3',
-    message: 'Are there any future plans or improvements you would like to make to the project?'
-},
-{
-    type: 'input',
-    name: 'questions4',
-    message: 'How did you collaborate with other team members or contributors, if applicable?'
-},
-{
-    type: 'input',
-    name: 'questions5',
-    message: 'How have users or stakeholders responded to the project so far?'
-},
-{
-    type: 'input',
-    name: 'questions6',
-    message: 'Are there any lessons learned or takeaways from the project that you can share with others?'
-},
-{
-    type: 'input',
-    name: 'questions7',
-    message: 'How does the project contribute to the wider tech community or industry?'
-},
-{
-    type: 'input',
-    name: 'questions8',
-    message: 'Are there any additional resources or documentation that would be helpful for someone who wants to understand or use the project?'
-},
 ];
 
 
