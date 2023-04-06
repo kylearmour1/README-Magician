@@ -5,9 +5,10 @@ function renderLicenseBadge(license) {
       return "";
     }
     switch (license) {
-      case "Apache 2.0":
-        return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
-      case "Boost Software License 1.0":
+      case "MIT":
+        return `[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`;
+      
+        case "Boost Software License 1.0":
         return `[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)`;
       case "BSD 3-Clause License":
         return `[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`;
@@ -25,8 +26,8 @@ function renderLicenseLink(license) {
         return "";
     }
     switch (license){
-        case "Apache 2.0":
-            return "https://opensource.org/license/apache-2-0/" ;
+        case "MIT":
+            return "https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT" ;
         
         case "Boost Software License 1.0":
             return "https://www.boost.org/LICENSE_1_0.txt";
