@@ -1,4 +1,4 @@
-# Express MarketE Comm
+# ReadMe Magician
 
     
 
@@ -9,7 +9,7 @@
 
   ## Description
 
-  This project is the back end for an e-commerce site that uses the latest technologies such as Express.js API and Sequelize to interact with a MySQL database. This application will allow users to perform CRUD operations on products, tags, and categories. The application satisfies all the acceptance criteria mentioned in the project description.
+    Effortlessly create professional-grade README files for your projects.
 
   ## Table of Contents
 
@@ -25,13 +25,13 @@
 
   ## Instalation
 
-  f
+    To get started, simply clone this repository and install the dependencies by running npm install.
 
 
   ## Usage
 
 
-  f
+  To use the application, navigate to the project's root directory and run the following command: node index.js.
   
 
   ## License 
@@ -44,11 +44,12 @@
 
   ## Contributing 
 
-  f
+    https://github.com/kylearmour1/README-Magician
+    https://drive.google.com/file/d/1q_hhjmLAlj3Ys4o0TFm-PQuFNLHjE84f/view
+
 
   
 
-  f
 
 
 
@@ -56,7 +57,7 @@
   If you have any additional inquiries or require further clarification, please do not hesitate to contact me via any of the following channels:
 
   
-  ### Github: https://github.com/kylearmour/1
+  ### Github: https://github.com/kylearmour1
   ### Email:  [kylejarmour@gmail.com](mailto:kylejarmour@gmail.com)
-  ### Linkedin: https://www.linkedin.com/in/kyle-armour-5879aa261/
+  ### Linkedin: https://www.linkedin.com/in/kyle-armour-5879aa261//
 
